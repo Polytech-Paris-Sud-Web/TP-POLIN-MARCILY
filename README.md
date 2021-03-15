@@ -1,7 +1,13 @@
 # SimpleApp
 
 # Quelques commentaires sur le projet
-A chaque étape j'ai fait le "git reset --hard" pour repartir sur de bonnes bases.
+A chaque étape j'ai fait le "git reset --hard" pour repartir sur de bonnes bases du coup il est normal que vous ne voyez pas tout l'historique de mes modifications car c'est votre code qui a été repris.
+
+Personne qui m'ont aidés: 
+    - Paulin LAMBERT.
+    - Hugo TAMBERI.
+J'ai aidé: 
+    - Alexandre MARIE.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
