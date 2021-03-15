@@ -1,5 +1,8 @@
 # SimpleApp
 
+# Quelques commentaires sur le projet
+A chaque étape j'ai fait le "git reset --hard" pour repartir sur de bonnes bases.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
