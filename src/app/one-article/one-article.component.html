@@ -1,0 +1,11 @@
+<div class="card mt-3" *ngIf="article">
+  <div class="card-header">
+    <h3> {{this.article.title}} </h3>
+    <!-- <a class="btn" [routerLink]="['/articles', article.id]" >Show article</a> -->
+  </div>
+  <div class="card-body">
+    <p class="lead"> {{this.article.content}} </p>
+    <blockquote>Written by {{this.article.authors}}</blockquote>
+    <button class="btn btn-primary" (click)="back()">Go back</button>
+  </div>  
+</div>

@@ -23,4 +23,8 @@ export class ArticleService {
   public add(newArticle : RawArticle): Observable<Article> {
     return this.http.post<Article>("http://localhost:3000/articles/", newArticle);
   }
+
+  public getById(id:number): Observable<Article> {
+    return this.http.get<Article>(`http://localhost:3000/articles/${id}`);
+  }
 }
